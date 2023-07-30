@@ -1,3 +1,5 @@
+# Boo Kandy
+
 ## Goal
 
 Feed Boo (the ghost) candies before they hit the clouds. Compete with your friends to see who feeds Boo more candies!
